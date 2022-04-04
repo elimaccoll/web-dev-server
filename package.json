@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "full-stack-developer-server-node",
+  "name": "web-dev-server",
   "version": "1.0.0",
   "description": "Node.js HTTP web server for Tuiter application",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elimaccoll/full-stack-developer-server-node.git"
+    "url": "git+https://github.com/elimaccoll/web-dev-server.git"
   },
   "keywords": [
     "Node",
@@ -20,9 +20,9 @@
   "author": "Eli MacColl",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elimaccoll/full-stack-developer-server-node/issues"
+    "url": "https://github.com/elimaccoll/web-dev-server/issues"
   },
-  "homepage": "https://github.com/elimaccoll/full-stack-developer-server-node#readme",
+  "homepage": "https://github.com/elimaccoll/web-dev-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.3"
